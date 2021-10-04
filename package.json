@@ -1,5 +1,5 @@
 {
-  "name": "@irlen3/ajs18-3platforms-1",
+  "name": "@irlen3/ajspacket",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/irlen3/ajs18-3platforms-1.git"
+    "url": "git+https://github.com/irlen3/ajspacket.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/irlen3/ajs18-3platforms-1/issues"
+    "url": "https://github.com/irlen3/ajspacket/issues"
   },
-  "homepage": "https://github.com/irlen3/ajs18-3platforms-1#readme",
+  "homepage": "https://github.com/irlen3/ajspacket#readme",
   "devDependencies": {
     "@babel/cli": "^7.15.7",
     "@babel/core": "^7.15.5",
